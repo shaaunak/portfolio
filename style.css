@@ -1,14 +1,8 @@
 /* =================== GENERAL STYLES =================== */
 :root {
-    --primary-color: #4e5de8;
-    --secondary-color: #6c63ff;
-    --accent-color: #ff6584;
-    --dark-color: #2d2e32;
-    --light-color: #f8f9fa;
-    --text-color: #333;
-    --text-light: #777;
-    --bg-gradient: linear-gradient(135deg, #4e5de8, #6c63ff);
-    --transition: all 0.3s ease;
+    
+     
+   ;
 }
 
 * {
@@ -498,4 +492,5 @@ textarea.form-control {
 }
 
 .scroll-to-top:hover {
-    background: linear-gradient(135deg, #
+
+
